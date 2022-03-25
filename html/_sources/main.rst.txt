@@ -1,0 +1,21 @@
+.. Speech Emotion Recognition documentation master file, created by
+   sphinx-quickstart on Wed Mar 24  2022.
+   You can feel free to adopt this file completely if you are liking.
+
+Welcome to Speech Emotion Recognition's documentation!
+======================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   index.md
+   modules.rst
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

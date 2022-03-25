@@ -1,0 +1,10 @@
+setup.py
+speechemotionrecognition/__init__.py
+speechemotionrecognition/dnn.py
+speechemotionrecognition/mlmodel.py
+speechemotionrecognition/utilities.py
+speechemotionrecognition.egg-info/PKG-INFO
+speechemotionrecognition.egg-info/SOURCES.txt
+speechemotionrecognition.egg-info/dependency_links.txt
+speechemotionrecognition.egg-info/requires.txt
+speechemotionrecognition.egg-info/top_level.txt
